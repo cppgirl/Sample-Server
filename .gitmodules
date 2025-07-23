@@ -1,0 +1,3 @@
+[submodule "dependencies/tinycsocket"]
+	path = dependencies/tinycsocket
+	url = https://gitlab.com/dosshell/tinycsocket/

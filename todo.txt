@@ -1,0 +1,12 @@
+Napisać program który wysyła napis z jednego komputera na drugi komputer
+Można to rozwinąć i napisac mini komunikator
+
+Użyć zależności zewnętrznej https://github.com/dosshell/tinycsocket/tree/master do międzyplatformowych socketów
+Aby włączyć zależność zewnętrzną do projektu użyć git submodules
+
+Projekt napisać za pomocą CMake i jezyka C
+
+init, add, restore, commit, push, pull, status
+branch checkout, merge, merge --squash
+
+cherry-pick
